@@ -1,0 +1,6 @@
+nome=input("Olá! Qual é o seu nome?")
+print("Como vai, "+nome+"? Prazer em te conhecer!")
+idade=input("Quantos anos você tem?")
+print("Então você tem "+idade+" anos, que legal!")
+cidade=input("E em que cidade você mora?")
+print("Que legal, "+nome+", então você mora em "+cidade+" e tem "+idade+" anos!")
